@@ -1,0 +1,49 @@
+.form-cotnainer {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid goldenrod;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.form-title {
+    font-size: 35px;
+    color: brown;
+    font-weight: 400;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+    margin-left: 5px;
+}
+
+.input-group input {
+    width: 415px;
+    height: 55px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+.form-submit {
+    background-color: burlywood;
+    width: 415px;
+    height: 55px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form-link {
+    color: chocolate;
+    text-decoration: none;
+}
